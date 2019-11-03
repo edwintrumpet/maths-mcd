@@ -1,0 +1,23 @@
+{
+  "name": "mcm",
+  "version": "1.0.0",
+  "description": "greatest common multiple algorithm",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwintrumpet/maths-mcd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwintrumpet/maths-mcd/issues"
+  },
+  "homepage": "https://github.com/edwintrumpet/maths-mcd#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

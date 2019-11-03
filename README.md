@@ -1,4 +1,4 @@
-# MCD
+# MCM
 
 ## Installation
 
